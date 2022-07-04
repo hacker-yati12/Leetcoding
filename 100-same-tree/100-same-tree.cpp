@@ -9,19 +9,15 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class Solution {    
 public:
-    bool ans=true;
     bool isSameTree(TreeNode* p, TreeNode* q) {
         if(p==NULL || q==NULL)
             return p==q;
         if(p->val!=q->val)
-            return false;
-        if(p->val==q->val)
-        {
-            ans=ans && isSameTree(p->left,q->left);
-            ans=ans && isSameTree(p->right,q->right);
-        }
-        return ans;
+            return false;        
+        bool a1=isSameTree(p->left,q->left);
+        bool a2=isSameTree(p->right,q->right);
+        return a1&&a2;
     }
 };
