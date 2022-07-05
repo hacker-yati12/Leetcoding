@@ -11,30 +11,28 @@
  */
 class Solution {
     vector<string> v;
-    public:
-vector<string> binaryTreePaths(TreeNode* root) {
-
-    if(root && !root->left && !root->right) 
-        return {to_string(root->val)};
-    
-    
+public:
+vector<string> binaryTreePaths(TreeNode* root) 
+{
+    if(root && root->left==NULL && root->right==NULL) 
+        return {to_string(root->val)};   
     allPaths(root,v,"");
     return v;    
 }
 private:
-void allPaths(TreeNode* root, vector<string> &ans, string s){
-
+void allPaths(TreeNode* root, vector<string> &ans, string s)
+{
     s += to_string(root->val);
     if(root->left || root->right) 
         s += "->";
-    if(!root->left && !root->right) 
+    if(root->left==NULL && root->right==NULL) 
         v.push_back(s);
-
-    if(root->left) allPaths(root->left, v,s);
-    if(root->right) allPaths(root->right, v,s);        
+    if(root->left) 
+        allPaths(root->left, v,s);
+    if(root->right) 
+        allPaths(root->right, v,s);
+    cout<<s<<endl;
+    s.pop_back();
     
-    s.pop_back();
-    s.pop_back();
 }
-
 };
