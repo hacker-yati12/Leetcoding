@@ -40,13 +40,28 @@ int solveMem(int n, vector<int>& dp)
     return dp[n];
 }
 
+int solveTab(int n)
+{
+    vector<int> dp(n+1, INT_MAX);
+    dp[0]=0;
+    dp[1]=1;
+    for(int i=2;i<=n;i++)
+    {
+        for(int j=1;j*j<=n;j++)
+        {
+            if(i-(j*j)>=0)
+                dp[i]=min(dp[i], 1+dp[i-(j*j)]);
+        }
+    }
+    return dp[n];
+}
+
 class Solution{
 	public:
 	int MinSquares(int n)
 	{
 	    // Code here
-	    vector<int> dp(n+1, -1);
-	    return solveMem(n, dp);
+	    return solveTab(n);
 	}
 };
 
