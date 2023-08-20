@@ -33,11 +33,33 @@ public:
         }
     }
     
+    void solveTab(vector<vector<int>>& mat, int &maxi)
+    {
+        vector<vector<int>> dp(mat.size()+1, vector<int> (mat[0].size()+1, 0));
+        for(int i=mat.size()-1; i>=0; i--)
+        {
+            for(int j=mat[0].size()-1; j>=0; j--)
+            {
+                int right = dp[i][j+1];
+                int diag = dp[i+1][j+1];
+                int down = dp[i+1][j];
+                
+                if(mat[i][j]==1)
+                {
+                    dp[i][j] = 1 + min(right, min(diag, down));
+                    maxi = max(dp[i][j], maxi);
+                }
+            }
+        }
+        return;
+    }
+    
     int maxSquare(int n, int m, vector<vector<int>> mat){
         // code here
         int maxi=0;
-        vector<vector<int>> dp(n+1, vector<int> (m+1, -1));
-        solve(mat, 0, 0, maxi, dp);
+        // vector<vector<int>> dp(n+1, vector<int> (m+1, -1));
+        // solve(mat, 0, 0, maxi, dp);
+        solveTab(mat, maxi);
         return maxi;
     }
 };
