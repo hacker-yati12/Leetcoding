@@ -9,15 +9,19 @@ public:
                 if(j == i)
                     continue;
                 int szj = words[j].size();
-                if(szj > szi)
+                if(szi > szj)
                     continue;
-                for(int k = 0; k <= szi-szj; k++) {
-                    string str = words[i].substr(k, szj);
-                    if(str == words[j]) {
-                        ans.push_back(words[j]);
+                bool flag = false;
+                for(int k = 0; k <= szj-szi; k++) {
+                    string str = words[j].substr(k, szi);
+                    if(str == words[i]) {
+                        ans.push_back(words[i]);
+                        flag = true;
                         break;
                     }
                 }
+                if(flag)
+                    break;
             }
         }
         return ans;
