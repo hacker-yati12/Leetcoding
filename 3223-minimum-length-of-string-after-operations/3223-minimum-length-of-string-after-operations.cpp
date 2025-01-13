@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumLength(string s) {
+        ios::sync_with_stdio(0); cin.tie(0);
         vector<int> f(26, 0);
         for(auto &x: s) {
             f[x-'a']++;
