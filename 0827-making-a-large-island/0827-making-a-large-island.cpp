@@ -47,23 +47,31 @@ public:
             for(int t2=0; t2<n; t2++) {
                 int curr = 1;
                 if(grid[t1][t2] == 0) {
-                    vector<int> cpy(gIdx);
+                    unordered_set<int> st;
                     ent = true;
                     if(t1-1>=0) {
-                        curr += cpy[newGrid[t1-1][t2]];
-                        cpy[newGrid[t1-1][t2]] = 0;
+                        if(!st.count(newGrid[t1-1][t2])) {
+                            curr += cpy[newGrid[t1-1][t2]];
+                            st.insert(newGrid[t1-1][t2]);
+                        }
                     }
                     if(t1+1<m) {
-                        curr += cpy[newGrid[t1+1][t2]];
-                        cpy[newGrid[t1+1][t2]] = 0;
+                        if(!st.count(newGrid[t1+1][t2])) {
+                            curr += cpy[newGrid[t1+1][t2]];
+                            st.insert(newGrid[t1+1][t2]);
+                        }
                     }
                     if(t2-1>=0) {
-                        curr += cpy[newGrid[t1][t2-1]];
-                        cpy[newGrid[t1][t2-1]] = 0;
+                        if(!st.count(newGrid[t1][t2-1])) {
+                            curr += cpy[newGrid[t1][t2-1]];
+                            st.insert(newGrid[t1][t2-1]);
+                        }
                     }
                     if(t2+1<n) {
-                        curr += cpy[newGrid[t1][t2+1]];
-                        cpy[newGrid[t1][t2+1]] = 0;
+                        if(!st.count(newGrid[t1][t2+1])) {
+                            curr += cpy[newGrid[t1][t2+1]];
+                            st.insert(newGrid[t1][t2+1]);
+                        }
                     }
                 }
                 ans = max(ans, curr);
