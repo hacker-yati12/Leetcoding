@@ -9,16 +9,17 @@ class Solution {
 
 public:
     int maximumSum(vector<int>& nums) {
-        unordered_map<int, multiset<int>> mp;
+        sort(nums.begin(), nums.end());
+        unordered_map<int, vector<int>> mp;
         for(int i=0; i<nums.size(); i++) {
             int dsum = digitSum(nums[i]);
-            mp[dsum].insert(nums[i]);
+            mp[dsum].push_back(nums[i]);
         }
         long long ans = 0;
         for(auto &x: mp) {
             long long curr = 0;
             if(x.second.size()>=2) {
-                curr = (*x.second.rbegin()) + (*next(x.second.rbegin()));
+                curr = *(x.second.end() - 1) + *(x.second.end() - 2);
                 ans = max(ans, curr);
             }
         }
