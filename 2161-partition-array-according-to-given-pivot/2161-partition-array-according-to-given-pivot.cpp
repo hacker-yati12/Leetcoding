@@ -10,9 +10,8 @@ public:
             if(nums[n-k-1]>pivot)
                 ans[j--]=nums[n-k-1];
         }
-        for(auto &x: ans)
-            if(x==INT_MAX)
-                x = pivot;
+        while(i<n && ans[i]==INT_MAX)
+            ans[i++]=pivot;
         return ans;
     }
 };
