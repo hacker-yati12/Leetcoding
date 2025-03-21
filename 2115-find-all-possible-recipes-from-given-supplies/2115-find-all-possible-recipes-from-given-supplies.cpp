@@ -2,22 +2,22 @@ class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
         int n = recipes.size();
-        unordered_map<string, int> mp;
+        unordered_set<string> avl;
         for(auto &x: supplies)
-            mp[x] = 1;
+            avl.insert(x);
         unordered_set<string> st;
         for(int i=0; i<n; i++) {
             for(int j=0; j<n; j++) {
-                if(!mp[recipes[j]]) {
+                if(avl.find(recipes[j]) == avl.end()) {
                     bool found = true;
                     for(auto &x: ingredients[j]) {
-                        if(!mp[x])
+                        if(avl.find(x) == avl.end())
                             found = false;
                     }
                     if(found) {
                         supplies.push_back(recipes[j]);
                         st.insert(recipes[j]);
-                        mp[recipes[j]] = 1;
+                        avl.insert(recipes[j]);
                     }
                 }
                 else 
