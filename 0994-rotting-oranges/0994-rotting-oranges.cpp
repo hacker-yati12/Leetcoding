@@ -1,54 +1,51 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        vector<vector<int>> time(grid.size(), vector<int> (grid[0].size(), 0));
-        vector<pair<int, int>> rotten;
-        for(int i=0; i<grid.size(); i++) {
-            for(int j=0; j<grid[0].size(); j++) {
-                if(grid[i][j] == 2)
-                    rotten.push_back({i,j});
-                if(grid[i][j]==1 || grid[i][j]==2)
-                    time[i][j] = INT_MAX;
-            }
-        }
-        for(auto x: rotten) {
-            queue<pair<int, int>> q;
-            q.push(x);
-            time[x.first][x.second]=0;
-            int t=0;
-            while(!empty(q)) {
-                int sz = q.size()
-                for(int i=0; i<sz; i++) {
-                    auto [x, y]=q.front();
-                    q.pop();
-                    if(x+1<m && grid[x+1][y]==1 && t+1<time[x+1][y]) {
-                        q.push({x+1, y}); 
-                        time[x+1][y] = t+1;
-                    }
-                    if(x-1>=0 && grid[x-1][y]==1 && t+1<time[x-1][y]) {
-                        q.push({x-1, y}); 
-                        time[x-1][y] = t+1;
-                    }
-                    if(y+1<n && grid[x][y+1]==1 && t+1<time[x][y+1]) {
-                        q.push({x, y+1}); 
-                        time[x][y+1] = t+1;
-                    }
-                    if(y-1>=0 && grid[x][y-1]==1 && t+1<time[x][y-1]) {
-                        q.push({x, y-1}); 
-                        time[x][y-1] = t+1;
-                    }
+        int m = grid.size(), n = grid[0].size();
+        vector<vector<bool>> vis(m, vector<bool> (n, false));
+        queue<pair<int, int>> q;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] == 2) {
+                    q.push({i, j});
+                    vis[i][j] = true;
                 }
-                t++;
             }
         }
-        int ans = 0;
-        for(auto &x: time) {
-            for(auto &y: x) {
-                ans = max(ans, y);
+
+        int t = -1;
+        while(!empty(q)) {
+            int sz = q.size();
+            while(sz--) {
+                auto node = q.front();
+                q.pop();
+                int x = node.first;
+                int y = node.second;
+                if(x+1 < m && !vis[x+1][y] && grid[x+1][y]==1) {
+                    q.push({x+1, y});
+                    vis[x+1][y] = true;
+                }
+                if(y+1 < n && !vis[x][y+1] && grid[x][y+1]==1) {
+                    q.push({x, y+1});
+                    vis[x][y+1] = true;
+                }
+                if(x-1 >=0 && !vis[x-1][y] && grid[x-1][y]==1) {
+                    q.push({x-1, y});
+                    vis[x-1][y] = true;
+                }
+                if(y-1 >= 0 && !vis[x][y-1] && grid[x][y-1]==1) {
+                    q.push({x, y-1});
+                    vis[x][y-1] = true;
+                }
+            }
+            t++;
+        }
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(!vis[i][j] && grid[i][j]==1)
+                    return -1;
             }
         }
-        return (ans==INT_MAX)?-1:ans;
+        return (t==-1)?0: t;
     }
 };
