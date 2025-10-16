@@ -9,9 +9,11 @@ public:
                 mp[x%value]++;
             }
         }
+        for(auto x: mp)
+            cout<<x.first<<" "<<x.second;
         int i = 0;
         for(; i < nums.size(); i++) {
-            if(mp[i] == 0)
+            if(mp[i%value] == 0)
                 return i;
             else
                 mp[i%value]--;
