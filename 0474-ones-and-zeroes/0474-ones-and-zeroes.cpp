@@ -1,19 +1,27 @@
 class Solution {
 public:
     int findMaxForm(vector<string>& strs, int m, int n) {
-        vector<vector<int>> dp(m + 1, vector<int> (n + 1, 0));
-        for (auto &x: strs) {
-            int c0 = 0, c1 = 0;
-            for (auto &y: x) {
-                if (y == '1') c1++;
-                else c0++;
+        int sz = strs.size();
+        vector<vector<vector<int>>> dp(sz + 1, vector<vector<int>>(m + 1, vector<int>(n + 1, 0)));
+        // dp[k][i][j]=maximum number of strings we can form using the first k strings, with at most i zeros and j ones.
+
+        for (int k = 1; k <= sz; k++) {
+            int cntZeroes = 0, cntOnes = 0;
+            for (char c : strs[k - 1]) {
+                if (c == '0') cntZeroes++;
+                else cntOnes++;
             }
-            for (int i = m; i >= c0; i--) {
-                for (int j = n; j >= c1; j--) {
-                    dp[i][j] = max(dp[i][j], 1 + dp[i - c0][j - c1]);
+
+            for (int i = 0; i <= m; i++) {
+                for (int j = 0; j <= n; j++) {
+                    dp[k][i][j] = dp[k - 1][i][j];  // skip current string
+                    if (i >= cntZeroes && j >= cntOnes)
+                        dp[k][i][j] = max(dp[k][i][j],
+                                          dp[k - 1][i - cntZeroes][j - cntOnes] + 1);
                 }
             }
         }
-        return dp[m][n];
+
+        return dp[sz][m][n];
     }
 };
