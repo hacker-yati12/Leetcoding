@@ -1,27 +1,57 @@
 class Solution {
 public:
-    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-        unordered_map<int, unordered_set<int>> adj;
-        for(auto x: edges) {
-            adj[x[0]].insert(x[1]);
-            adj[x[1]].insert(x[0]);
-        }
-        int comp = 0;
-        dfs(0, -1, adj, values, k, comp);
-        return comp;
-    }
+    int maxKDivisibleComponents(int n, vector<vector<int>>& edges,
+                                vector<int>& values, int k) {
+        if (n < 2) return 1;
 
-    long long dfs(int curr, int par, unordered_map<int, unordered_set<int>>& adj, vector<int>& values, int k, int &comp) {
-        long long sum = 0;
-        for(auto x: adj[curr]) {
-            if(x!=par)
-                sum += dfs(x, curr, adj, values, k, comp);
+        int componentCount = 0;
+        vector<vector<int>> graph(n);
+        vector<int> inDegree(n, 0);
+
+        for (const auto& edge : edges) {
+            int node1 = edge[0], node2 = edge[1];
+            graph[node1].push_back(node2);
+            graph[node2].push_back(node1);
+            inDegree[node1]++;
+            inDegree[node2]++;
         }
-        sum += values[curr];
-        if(sum%k == 0) {
-            comp++;
-            sum = 0;
+
+        vector<long long> longValues(values.begin(), values.end());
+
+        queue<int> queue;
+        for (int node = 0; node < n; node++) {
+            if (inDegree[node] == 1) {
+                queue.push(node);
+            }
         }
-        return sum;
+
+        while (!queue.empty()) {
+            int currentNode = queue.front();
+            queue.pop();
+            inDegree[currentNode]--;
+
+            long long addValue = 0;
+
+            if (longValues[currentNode] % k == 0) {
+                componentCount++;
+            } else {
+                addValue = longValues[currentNode];
+            }
+
+            for (int neighborNode : graph[currentNode]) {
+                if (inDegree[neighborNode] == 0) {
+                    continue;
+                }
+
+                inDegree[neighborNode]--;
+                longValues[neighborNode] += addValue;
+
+                if (inDegree[neighborNode] == 1) {
+                    queue.push(neighborNode);
+                }
+            }
+        }
+
+        return componentCount;
     }
 };
