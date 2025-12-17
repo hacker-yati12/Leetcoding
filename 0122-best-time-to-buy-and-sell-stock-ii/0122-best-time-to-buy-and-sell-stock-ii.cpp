@@ -7,9 +7,8 @@ public:
         for (int i = 1; i < n; i++) {
             if (prices[i] > prev) {
                 ans += prices[i] - prev;
-                prev = prices[i];
-            } else
-                prev = min(prev, prices[i]);
+            }
+            prev = prices[i];
         }
         return ans;
     }
