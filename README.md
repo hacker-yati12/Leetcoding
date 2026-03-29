@@ -8,6 +8,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hacker-yati12/Leetcoding/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hacker-yati12/Leetcoding/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hacker-yati12/Leetcoding/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
