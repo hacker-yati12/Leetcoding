@@ -31,6 +31,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hacker-yati12/Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hacker-yati12/Leetcoding/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
@@ -42,6 +43,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hacker-yati12/Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hacker-yati12/Leetcoding/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Binary Search
@@ -91,6 +93,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hacker-yati12/Leetcoding/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
