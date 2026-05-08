@@ -103,6 +103,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -141,4 +142,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
