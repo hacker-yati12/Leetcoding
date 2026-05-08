@@ -35,6 +35,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +131,12 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
