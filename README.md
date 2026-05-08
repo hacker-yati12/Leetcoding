@@ -36,6 +36,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
