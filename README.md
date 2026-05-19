@@ -32,6 +32,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hacker-yati12/Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hacker-yati12/Leetcoding/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -56,6 +57,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
