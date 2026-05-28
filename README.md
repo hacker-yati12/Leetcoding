@@ -32,6 +32,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -74,6 +75,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -141,6 +143,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
