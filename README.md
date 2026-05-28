@@ -35,6 +35,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0198-house-robber](https://github.com/hacker-yati12/Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hacker-yati12/Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -151,6 +152,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0198-house-robber](https://github.com/hacker-yati12/Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
