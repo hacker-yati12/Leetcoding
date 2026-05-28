@@ -26,6 +26,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -132,6 +133,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
