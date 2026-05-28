@@ -46,6 +46,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0238-product-of-array-except-self](https://github.com/hacker-yati12/Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hacker-yati12/Leetcoding/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/hacker-yati12/Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -223,6 +224,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hacker-yati12/Leetcoding/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/hacker-yati12/Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,4 +255,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/hacker-yati12/Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
