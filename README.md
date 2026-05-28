@@ -43,6 +43,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0238-product-of-array-except-self](https://github.com/hacker-yati12/Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -63,6 +64,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -193,6 +195,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
+| [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
