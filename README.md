@@ -34,6 +34,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hacker-yati12/Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -106,6 +107,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -113,6 +115,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Prefix Sum
@@ -184,4 +187,12 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hacker-yati12/Leetcoding/tree/main/0020-valid-parentheses/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
