@@ -88,6 +88,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/hacker-yati12/Leetcoding/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/hacker-yati12/Leetcoding/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
@@ -176,6 +178,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0102-binary-tree-level-order-traversal](https://github.com/hacker-yati12/Leetcoding/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/hacker-yati12/Leetcoding/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -215,4 +218,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
