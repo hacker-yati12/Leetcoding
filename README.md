@@ -165,6 +165,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -200,8 +201,14 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hacker-yati12/Leetcoding/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hacker-yati12/Leetcoding/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
