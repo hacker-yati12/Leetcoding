@@ -6,6 +6,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hacker-yati12/Leetcoding/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/hacker-yati12/Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hacker-yati12/Leetcoding/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hacker-yati12/Leetcoding/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -29,6 +30,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -96,6 +98,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -137,6 +140,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
