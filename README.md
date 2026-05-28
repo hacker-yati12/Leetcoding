@@ -8,6 +8,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/hacker-yati12/Leetcoding/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/hacker-yati12/Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hacker-yati12/Leetcoding/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hacker-yati12/Leetcoding/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -35,6 +36,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/hacker-yati12/Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -152,6 +154,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/hacker-yati12/Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -164,6 +167,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/hacker-yati12/Leetcoding/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -201,6 +205,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/hacker-yati12/Leetcoding/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -232,4 +237,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
