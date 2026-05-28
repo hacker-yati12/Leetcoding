@@ -1,25 +1,25 @@
 class Solution {
-    string check(int i, int j, string s) {
-        while(i>=0 && j<s.size() && s[i]==s[j]) {
-            i--;
-            j++;
+    string expand(string s, int i, int j) {
+        int l = i, r = j;
+        while(l>=0 && r<s.size() && s[l] == s[r]) {
+            l--;
+            r++;
         }
-        ++i;
-        --j;
-        return s.substr(i, j-i+1);
+        return s.substr(l+1, r - l - 1);
     }
 public:
     string longestPalindrome(string s) {
-        int n = s.size();
-        if(n==1)
-            return s;
-        string odd="", even="";
-        for(int i = 0; i < n-1; i++) {
-            string o = check(i, i, s);
-            odd = (o.size() > odd.size())? o : odd;
-            string e = check(i, i+1, s);
-            even = (e.size() > even.size())? e : even;
+        string ans = "";
+        for (int i = 0; i < s.size(); i++) {
+            string odd = expand(s, i, i);
+            if (odd.size() > ans.size())
+                ans = odd;
         }
-        return (odd.size() > even.size())?odd : even;
+        for (int i = 0; i < s.size(); i++) {
+            string even = expand(s, i, i + 1);
+            if (even.size() > ans.size())
+                ans = even;
+        }
+        return ans;
     }
 };
