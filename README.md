@@ -5,6 +5,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/hacker-yati12/Leetcoding/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/hacker-yati12/Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -133,6 +134,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
@@ -147,6 +149,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hacker-yati12/Leetcoding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
