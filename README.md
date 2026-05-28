@@ -29,6 +29,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
@@ -69,6 +70,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
