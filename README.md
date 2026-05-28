@@ -23,6 +23,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/hacker-yati12/Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/hacker-yati12/Leetcoding/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -34,6 +35,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0033-search-in-rotated-sorted-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/hacker-yati12/Leetcoding/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/hacker-yati12/Leetcoding/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
@@ -63,6 +65,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/hacker-yati12/Leetcoding/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
