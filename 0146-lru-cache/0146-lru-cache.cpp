@@ -46,11 +46,11 @@ public:
             Node* resNode = mp[key];
             int ans = resNode->val;
 
-            mp.erase(key);
+            // mp.erase(key);
             deleteNode(resNode);
             addNode(resNode);
 
-            mp[key] = head->next;
+            // mp[key] = head->next;
             return ans;
         }
         return -1;
