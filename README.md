@@ -158,6 +158,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0128-longest-consecutive-sequence](https://github.com/hacker-yati12/Leetcoding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/hacker-yati12/Leetcoding/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hacker-yati12/Leetcoding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
@@ -217,6 +219,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
+| [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/hacker-yati12/Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
