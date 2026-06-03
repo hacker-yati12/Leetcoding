@@ -64,6 +64,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -87,12 +88,14 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0033-search-in-rotated-sorted-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hacker-yati12/Leetcoding/tree/main/0011-container-with-most-water/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +160,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0141-linked-list-cycle](https://github.com/hacker-yati12/Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
