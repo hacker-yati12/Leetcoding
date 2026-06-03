@@ -49,6 +49,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0739-daily-temperatures](https://github.com/hacker-yati12/Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
+| [1345-jump-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1345-jump-game-iv/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -197,6 +198,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hacker-yati12/Leetcoding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/hacker-yati12/Leetcoding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1345-jump-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -222,6 +224,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0207-course-schedule](https://github.com/hacker-yati12/Leetcoding/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/hacker-yati12/Leetcoding/tree/main/0994-rotting-oranges/) | Medium |
+| [1345-jump-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1345-jump-game-iv/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
