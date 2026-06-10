@@ -70,6 +70,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0215-kth-largest-element-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +290,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
