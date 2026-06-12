@@ -65,6 +65,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -134,6 +135,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -223,6 +226,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hacker-yati12/Leetcoding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0102-binary-tree-level-order-traversal](https://github.com/hacker-yati12/Leetcoding/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hacker-yati12/Leetcoding/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +302,8 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 <!---LeetCode Topics End-->
