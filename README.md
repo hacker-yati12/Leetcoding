@@ -173,6 +173,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hacker-yati12/Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/hacker-yati12/Leetcoding/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hacker-yati12/Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -248,6 +249,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hacker-yati12/Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hacker-yati12/Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
