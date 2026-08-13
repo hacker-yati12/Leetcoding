@@ -74,6 +74,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/hacker-yati12/Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/hacker-yati12/Leetcoding/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/hacker-yati12/Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3731-find-missing-elements](https://github.com/hacker-yati12/Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
