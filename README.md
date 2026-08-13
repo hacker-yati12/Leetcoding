@@ -135,6 +135,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -197,6 +198,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0139-word-break](https://github.com/hacker-yati12/Leetcoding/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/hacker-yati12/Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/hacker-yati12/Leetcoding/tree/main/0322-coin-change/) | Medium |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hacker-yati12/Leetcoding/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -317,4 +319,24 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
