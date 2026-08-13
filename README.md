@@ -16,6 +16,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hacker-yati12/Leetcoding/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/hacker-yati12/Leetcoding/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hacker-yati12/Leetcoding/tree/main/0011-container-with-most-water/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -131,6 +133,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hacker-yati12/Leetcoding/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -249,6 +253,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
