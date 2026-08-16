@@ -58,6 +58,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hacker-yati12/Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacker-yati12/Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/hacker-yati12/Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -105,6 +106,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hacker-yati12/Leetcoding/tree/main/0011-container-with-most-water/) | Medium |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/hacker-yati12/Leetcoding/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hacker-yati12/Leetcoding/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -141,6 +143,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0048-rotate-image](https://github.com/hacker-yati12/Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hacker-yati12/Leetcoding/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hacker-yati12/Leetcoding/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -331,14 +334,17 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +353,9 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/hacker-yati12/Leetcoding/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
