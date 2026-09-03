@@ -269,6 +269,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [0061-rotate-list](https://github.com/hacker-yati12/Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hacker-yati12/Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/hacker-yati12/Leetcoding/tree/main/0146-lru-cache/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hacker-yati12/Leetcoding/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hacker-yati12/Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
