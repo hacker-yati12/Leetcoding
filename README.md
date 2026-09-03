@@ -76,6 +76,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3660-jump-game-ix](https://github.com/hacker-yati12/Leetcoding/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/hacker-yati12/Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacker-yati12/Leetcoding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
