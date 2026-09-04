@@ -79,6 +79,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3691-maximum-total-subarray-value-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/hacker-yati12/Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ extension://aciombdipochlnkbpcbgdpjffcfdbggi/welcome.html
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hacker-yati12/Leetcoding/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hacker-yati12/Leetcoding/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hacker-yati12/Leetcoding/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/hacker-yati12/Leetcoding/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
